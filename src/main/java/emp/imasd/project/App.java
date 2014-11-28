@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Adios  a todos" );
+        System.out.println( "Empezamos con git" );
     }
 }
